@@ -1,0 +1,3 @@
+[submodule "2-JS-Basics"]
+	path = 2-JS-Basics
+	url = https://github.com/kmoberg/2-JS-Basics.git
