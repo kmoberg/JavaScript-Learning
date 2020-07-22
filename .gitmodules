@@ -4,3 +4,6 @@
 [submodule "01-JavascriptBook"]
 	path = 01-JavascriptBook
 	url = https://github.com/kmoberg/JavaScript-Book-Code.git
+[submodule "02-JS-Basics"]
+	path = 02-JS-Basics
+	url = https://github.com/kmoberg/02-JS-Basics.git
